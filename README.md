@@ -1,1 +1,1 @@
-This is a program to learn git, github and pycharm.
+This is a program to learn git, GitHub and PyCharm and beyond.
